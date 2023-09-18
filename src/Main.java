@@ -318,4 +318,9 @@ public class Main {
         merge(arr, aux, low, mid, high, toHigh);        // объединяем две половинки
 
     }
+
+    public static void hello()
+    {
+        System.out.println("Hello");
+    }
 }
